@@ -1,0 +1,17 @@
+Notas del proyecto SISTEMA
+
+
+
+cd /d/Proyectos/Python/sistema
+
+Comando para correr el programa: 
+python manage.py runserver
+
+Link para visualizar proyecto online:
+http://127.0.0.1:8000/
+
+Link para localhost php:
+http://localhost/phpmyadmin/index.php
+
+Link para ingresar como Admin/Superuser:
+http://127.0.0.1:8000/admin/login/?next=/admin/
